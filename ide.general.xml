@@ -2,5 +2,6 @@
   <component name="GeneralSettings">
     <option name="autoSaveIfInactive" value="true" />
     <option name="processCloseConfirmation" value="TERMINATE" />
+    <option name="showTipsOnStartup" value="false" />
   </component>
 </application>
